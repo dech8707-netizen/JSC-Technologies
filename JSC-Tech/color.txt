@@ -1,0 +1,40 @@
+/* ================================
+   JSC TECHNOLOGIES COLOR PALETTE
+   ================================ */
+
+/* Primary Brand Colors */
+--primary-blue: #13418B;
+--primary-dark: #061F3F;
+--deep-navy: #011335;
+
+/* Text Colors */
+--text-primary: #132845;
+--text-secondary: #4A4D55;
+--text-gray: #787A82;
+--text-light-gray: #959EAA;
+
+/* Background Colors */
+--white: #FFFFFF;
+--off-white: #FEFEFE;
+--background: #F2F6FC;
+--background-light: #F5F7FB;
+--light-blue: #EAF3FA;
+--soft-blue: #DCEBF7;
+
+/* Border Colors */
+--border: #E4E8EF;
+--border-light: #E9EDF3;
+
+/* Service Accent Colors */
+--accent-green: #269B73;
+--accent-purple: #6939A8;
+--accent-orange: #E97820;
+
+/* About Section Accent Colors */
+--vision-blue: #2563C7;
+--mission-green: #269B73;
+--values-purple: #8B4FA8;
+
+/* Utility */
+--success: #269B73;
+--error: #DC3545;
