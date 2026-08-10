@@ -3,7 +3,7 @@ import { Link, useNavigate } from "react-router-dom";
 const Header = () => {
   return(
     <div>
-      <div className="flex justify-between px-14 border border-black py-4 ">
+      <div className="flex justify-between px-14  py-4 ">
         <div className="text-5xl font-bold text-[#13418B]">JSC</div>
         <div className="flex juatify-between items-center ">
           <ul className="flex gap-10 mr-10 font-bold text-lg text-[#4A4D55]">
